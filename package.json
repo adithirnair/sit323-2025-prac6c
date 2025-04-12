@@ -1,0 +1,16 @@
+{
+  "name": "sit323-2025-prac5p",
+  "version": "1.0.0",
+  "description": "Dockerised Node.js web application for SIT323/SIT737 Task 5.1P",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adithi Rajesh Nair",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
